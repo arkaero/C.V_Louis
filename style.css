@@ -29,9 +29,7 @@ font-family: "Patua One", cursive;
  background-color:brown;
  text-align: center;
   }
-  .real{
-    background-color:red;
-  }
+  
 @media screen and (max-width: 768px) {
     body {
        background-image:none;
