@@ -25,6 +25,7 @@ font-family: "Patua One", cursive;
  h2 {
    color:white;
  border: 5px solid black;
+ border-radius:10%;
  background-color:brown;
  text-align: center;
   }
