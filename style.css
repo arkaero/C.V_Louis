@@ -1,6 +1,7 @@
 h1 {
   color:black;
-border: 5px dotted black;
+border: 5px solid black;
+border-radius:45%;
 background-color: grey;
 text-align: center;
 }
